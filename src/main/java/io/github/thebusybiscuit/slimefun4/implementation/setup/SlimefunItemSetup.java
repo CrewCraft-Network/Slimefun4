@@ -234,11 +234,11 @@ public final class SlimefunItemSetup {
         DefaultItemGroups itemGroups = new DefaultItemGroups();
 
         // @formatter:off (We will need to refactor this one day)
-        new SlimefunItem(itemGroups.weapons, SlimefunItems.GRANDMAS_WALKING_STICK, RecipeType.ENHANCED_CRAFTING_TABLE,
+        new SlimefunItem(itemGroups.weapons, SlimefunItems.BULLY_STICK, RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {null, new ItemStack(Material.OAK_LOG), null, null, new ItemStack(Material.OAK_LOG), null, null, new ItemStack(Material.OAK_LOG), null})
         .register(plugin);
         
-        new SlimefunItem(itemGroups.weapons, SlimefunItems.GRANDPAS_WALKING_STICK, RecipeType.ENHANCED_CRAFTING_TABLE,
+        new SlimefunItem(itemGroups.weapons, SlimefunItems.BULLY_STICK_2_0, RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {new ItemStack(Material.LEATHER), new ItemStack(Material.OAK_LOG), new ItemStack(Material.LEATHER), null, new ItemStack(Material.OAK_LOG), null, null, new ItemStack(Material.OAK_LOG), null})
         .register(plugin);
 

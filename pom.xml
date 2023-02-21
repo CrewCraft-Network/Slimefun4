@@ -5,12 +5,12 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.slimefun</groupId>
-    <artifactId>Slimefun</artifactId>
+    <artifactId>CCNFUN</artifactId>
 
     <!-- Our default version will be UNOFFICIAL, this will prevent auto updates -->
     <!-- from overriding our local test file -->
-    <version>4.9-UNOFFICIAL</version>
-    <inceptionYear>2013</inceptionYear>
+    <version>1.0</version>
+    <inceptionYear>2023</inceptionYear>
     <packaging>jar</packaging>
 
     <!-- Project Info -->

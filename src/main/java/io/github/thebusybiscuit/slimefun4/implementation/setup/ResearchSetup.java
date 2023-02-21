@@ -31,7 +31,7 @@ public final class ResearchSetup {
 
         alreadyRan = true;
 
-        register("walking_sticks", 0, "Walking Sticks", 1, SlimefunItems.GRANDMAS_WALKING_STICK, SlimefunItems.GRANDPAS_WALKING_STICK);
+        register("walking_sticks", 0, "Walking Sticks", 1, SlimefunItems.BULLY_STICK, SlimefunItems.BULLY_STICK_2_0);
         register("portable_crafter", 1, "Portable Crafter", 1, SlimefunItems.PORTABLE_CRAFTER);
         register("fortune_cookie", 2, "Fortune Cookie", 1, SlimefunItems.FORTUNE_COOKIE);
         register("portable_dustbin", 4, "Portable Dustbin", 2, SlimefunItems.PORTABLE_DUSTBIN);

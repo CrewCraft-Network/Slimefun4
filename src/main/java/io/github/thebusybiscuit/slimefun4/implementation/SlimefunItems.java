@@ -181,15 +181,15 @@ public final class SlimefunItems {
     public static final SlimefunItemStack EASTER_APPLE_PIE = new SlimefunItemStack("EASTER_APPLE_PIE", Material.PUMPKIN_PIE, "&fApple Pie");
 
     /* Weapons */
-    public static final SlimefunItemStack GRANDMAS_WALKING_STICK = new SlimefunItemStack("GRANDMAS_WALKING_STICK", Material.STICK, "&7Grandmas Walking Stick");
-    public static final SlimefunItemStack GRANDPAS_WALKING_STICK = new SlimefunItemStack("GRANDPAS_WALKING_STICK", Material.STICK, "&7Grandpas Walking Stick");
+    public static final SlimefunItemStack BULLY_STICK = new SlimefunItemStack("BULLY_STICK", Material.STICK, "&7Bully Stick");
+    public static final SlimefunItemStack BULLY_STICK_2_0 = new SlimefunItemStack("BULLY_STICK_2.0", Material.STICK, "&7Bully Stick 2.0");
     public static final SlimefunItemStack SWORD_OF_BEHEADING = new SlimefunItemStack("SWORD_OF_BEHEADING", Material.IRON_SWORD, "&6Sword of Beheading", "&7Beheading II", "", "&fHas a chance to behead Mobs", "&f(even a higher chance for Wither Skeletons)");
     public static final SlimefunItemStack BLADE_OF_VAMPIRES = new SlimefunItemStack("BLADE_OF_VAMPIRES", Material.GOLDEN_SWORD, "&cBlade of Vampires", "&7Life Steal I", "", "&fEverytime you attack something", "&fyou have a 45% chance to", "&frecover 2 Hearts of your Health");
     public static final SlimefunItemStack SEISMIC_AXE = new SlimefunItemStack("SEISMIC_AXE", Material.IRON_AXE, "&aSeismic Axe", "", "&7&oA portable Earthquake...", "", LoreBuilder.RIGHT_CLICK_TO_USE);
 
     static {
-        GRANDMAS_WALKING_STICK.addUnsafeEnchantment(Enchantment.KNOCKBACK, 2);
-        GRANDPAS_WALKING_STICK.addUnsafeEnchantment(Enchantment.KNOCKBACK, 5);
+        BULLY_STICK.addUnsafeEnchantment(Enchantment.KNOCKBACK, 2);
+        BULLY_STICK_2_0.addUnsafeEnchantment(Enchantment.KNOCKBACK, 5);
 
         BLADE_OF_VAMPIRES.addUnsafeEnchantment(Enchantment.FIRE_ASPECT, 2);
         BLADE_OF_VAMPIRES.addUnsafeEnchantment(Enchantment.DURABILITY, 4);
